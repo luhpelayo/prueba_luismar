@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532798300123",
+    "project_id": "prueba-luismar",
+    "storage_bucket": "prueba-luismar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532798300123:android:a2b733fe869a1a0536d1fe",
+        "android_client_info": {
+          "package_name": "com.example.prueba_luismar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532798300123-tm29bf5ee7rj57l1ji9p0huvg7r5o3le.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prueba_luismar",
+            "certificate_hash": "11a6181c01bcd9220f6fb0c8ba1e36b6ff0c5b6d"
+          }
+        },
+        {
+          "client_id": "532798300123-in6bpai55j4mbre1t7oad2fan1rj5m03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT1eZBX1LlHg-TqaW42KkzFM7DaQ5_SKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532798300123-in6bpai55j4mbre1t7oad2fan1rj5m03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
